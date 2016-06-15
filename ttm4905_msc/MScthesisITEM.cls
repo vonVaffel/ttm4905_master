@@ -269,7 +269,7 @@
 \let\endtheglossary\@undefined  
 \let\printglossary\undefined
 \let\glossarymark\undefined
-\RequirePackage[nonumberlist,toc,acronym,xindy]{glossaries}
+\RequirePackage[nonumberlist,toc,acronym,xindy,sanitize=none]{glossaries}
 \renewcommand\@pnumwidth{2em} % adjust page number column width
 
 % Language
