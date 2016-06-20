@@ -3,6 +3,8 @@
 % this package is just to generate text for demo-purposes
 \usepackage{blindtext}
 \usepackage{multirow}
+\usepackage{pbox}
+\usepackage{csquotes}
 
 \title{Title} % The title of your assignement; NB use \newlinetitle to start a newline
 \author{Firstname Lastname} % Your firstname and lastname
@@ -71,9 +73,9 @@
 \cleardoublepage
 
 %% include if relevant
-\printglossary[title=List of Symbols, style=long]
-\cleardoublepage
-\glsaddall[]
+%\printglossary[title=List of Symbols, style=long]
+%\cleardoublepage
+%\glsaddall[]
 
 %% include if relevant
 \printglossary[title=List of Acronyms,type=\acronymtype] % prints just the list of acronyms
@@ -87,6 +89,8 @@
 \include{chapter4}
 \include{chapter5}
 \include{chapter6}
+\include{chapter7}
+\include{chapter8}
 
 %% include here the other chapters
 
