@@ -6,18 +6,38 @@
 \select@language {english}
 \addvspace {10pt}
 \addvspace {10pt}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Cross subsidy, as employed by Gillette~\cite {chrisanderson2008}}}{6}{figure.2.1}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Visualisation of the freemium model~\cite {chrisanderson2008}}}{7}{figure.2.2}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces B2B interactions}}{10}{figure.2.3}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces B2C interactions}}{11}{figure.2.4}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces B2B\&C interactions~\cite {Muzellec2015139}}}{13}{figure.2.5}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Spreadsheet used to keep track of potential respondents}}{9}{figure.3.1}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Business Model Canvas template. \textcopyright businessmodelgeneration.com}}{14}{figure.3.2}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Spreadsheet used to keep track of potential respondents}}{17}{figure.3.1}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Teleopti CCC}}{16}{figure.4.1}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces The circular WFM process}}{20}{figure.4.1}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Teleopti CCC's core functionality~\cite {teleopti2016}}}{21}{figure.4.2}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Splunk's Enterprise product~\cite {splunkinc20162}}}{26}{figure.4.3}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces A geographical representation of countries in which \glspl {hei} were contacted. Red denotes no replies from that country, while green indicates one or more answer being submitted}}{29}{figure.5.1}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Q1: "Are you currently using an indoor mapping service?". Blue indicates "Yes" and red indicates "No"}}{30}{figure.5.2}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Q2: "Are you willing to consider using an indoor mapping service?". Blue indicates "Yes" and red indicates "No"}}{31}{figure.5.3}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Results of Q3: "Given an indoor mapping service that will entail several benefits for your institution, please rate the initial interest in such a service". Vertical axis denotes number of responses.}}{32}{figure.5.4}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Results of Q4: "How much of an concern would price be in procuring an indoor mapping service?" Vertical axis denotes number of responses.}}{33}{figure.5.5}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Results of Q5.1: "Navigation and indoor pathfinding". Vertical axis denotes number of responses.}}{35}{figure.5.6}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Results of Q5.2: "Timetable integration". Vertical axis denotes number of responses.}}{36}{figure.5.7}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Results of Q5.3: "Integration with SMS, apps, IT-infrastructure etc. ". Vertical axis denotes number of responses.}}{37}{figure.5.8}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Results of Q5.4: "Automatic updating of maps". Vertical axis denotes number of responses.}}{38}{figure.5.9}
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Results of Q6: "Which factors would be of concern when procuring an indoor mapping service?". Horizontal axis represents number of responses. Option 3 not wholly visible: "Security Concerns".}}{40}{figure.5.10}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Proposed freemium-based business model for an IMS such as MazeMap, in the Business Model Canvas-framewok}}{57}{figure.6.1}
 \addvspace {10pt}
 \addvspace {10pt}
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Invitation letter. The black box is a redacted proof of NTNU enrollment by the author}}{66}{figure.A.1}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {A.1}{\ignorespaces Invitation letter. The black box is a redacted proof of NTNU enrollment by the author}}{26}{figure.A.1}
+\contentsline {figure}{\numberline {B.1}{\ignorespaces Screenshot of the international research survey response form, part 1}}{68}{figure.B.1}
+\contentsline {figure}{\numberline {B.2}{\ignorespaces Screenshot of the international research survey response form, part 2}}{69}{figure.B.2}
+\contentsline {figure}{\numberline {B.3}{\ignorespaces Screenshot of the international research survey response form, part 3}}{70}{figure.B.3}
+\contentsline {figure}{\numberline {B.4}{\ignorespaces Screenshot of the international research survey response form, part 4}}{71}{figure.B.4}
+\contentsline {figure}{\numberline {B.5}{\ignorespaces Screenshot of the international research survey response form, part 5}}{72}{figure.B.5}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {B.1}{\ignorespaces Screenshot of the international research survey response form, part 1}}{28}{figure.B.1}
-\contentsline {figure}{\numberline {B.2}{\ignorespaces Screenshot of the international research survey response form, part 2}}{29}{figure.B.2}
-\contentsline {figure}{\numberline {B.3}{\ignorespaces Screenshot of the international research survey response form, part 3}}{30}{figure.B.3}
-\contentsline {figure}{\numberline {B.4}{\ignorespaces Screenshot of the international research survey response form, part 4}}{31}{figure.B.4}
-\contentsline {figure}{\numberline {B.5}{\ignorespaces Screenshot of the international research survey response form, part 5}}{32}{figure.B.5}
+\contentsline {figure}{\numberline {C.1}{\ignorespaces Business Model Canvas template. \textcopyright businessmodelgeneration.com}}{77}{figure.C.1}
