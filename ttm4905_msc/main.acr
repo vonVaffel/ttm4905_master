@@ -48,12 +48,12 @@
 \glsXpageXglsnumberformat{}{44}\delimN 
 \glsXpageXglsnumberformat{}{49}\delimN 
 \glsXpageXglsnumberformat{}{50}\delimN 
-\glsXpageXglsnumberformat{}{58}\delimN 
+\glsXpageXglsnumberformat{}{59}\delimN 
 \glsXpageXglsnumberformat{}{63}\delimN 
 \glsXpageXglsnumberformat{}{64}\delimN 
 \glsXpageXglsnumberformat{}{79}}}\relax\glsresetentrylist
 \glossentry{b2bc}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{1}\delimR 
+\glsXpageXglsnumberformat{}{1}\delimN 
 \glsXpageXglsnumberformat{}{3}\delimN 
 \glsXpageXglsnumberformat{}{7}\delimN 
 \glsXpageXglsnumberformat{}{14}\delimN 
@@ -75,7 +75,7 @@
 \glsXpageXglsnumberformat{}{63}\delimN 
 \glsXpageXglsnumberformat{}{79}}}\relax\glsresetentrylist
 \glossentry{ble}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{55}}}\glsgroupskip
+\glsXpageXglsnumberformat{}{56}}}\glsgroupskip
 \glsgroupheading{C}\relax\glsresetentrylist
 \glossentry{cele}{\glossaryentrynumbers{\relax 
 \glsXpageXglsnumberformat{}{50}}}\relax\glsresetentrylist
@@ -86,7 +86,7 @@
 \glsXpageXglsnumberformat{}{xi}\delimN 
 \glsXpageXglsnumberformat{}{xiii}, 
 \glsXpageXglsnumberformat{}{3}\delimN 
-\glsXpageXglsnumberformat{}{4}\delimN 
+\glsXpageXglsnumberformat{}{5}\delimN 
 \glsXpageXglsnumberformat{}{17}\delimN 
 \glsXpageXglsnumberformat{}{31}\delimR 
 \glsXpageXglsnumberformat{}{33}\delimN 
@@ -97,7 +97,8 @@
 \glsXpageXglsnumberformat{}{50}\delimN 
 \glsXpageXglsnumberformat{}{57}\delimN 
 \glsXpageXglsnumberformat{}{59}\delimN 
-\glsXpageXglsnumberformat{}{63}}}\glsgroupskip
+\glsXpageXglsnumberformat{}{63}\delimN 
+\glsXpageXglsnumberformat{}{64}}}\glsgroupskip
 \glsgroupheading{I}\relax\glsresetentrylist
 \glossentry{ime}{\glossaryentrynumbers{\relax 
 \glsXpageXglsnumberformat{}{v}}}\relax\glsresetentrylist
@@ -119,7 +120,7 @@
 \glsXpageXglsnumberformat{}{53}\delimN 
 \glsXpageXglsnumberformat{}{55}\delimN 
 \glsXpageXglsnumberformat{}{57}\delimR 
-\glsXpageXglsnumberformat{}{59}\delimN 
+\glsXpageXglsnumberformat{}{60}\delimN 
 \glsXpageXglsnumberformat{}{63}\delimN 
 \glsXpageXglsnumberformat{}{64}}}\relax\glsresetentrylist
 \glossentry{iot}{\glossaryentrynumbers{\relax 
@@ -134,8 +135,6 @@
 \glsXpageXglsnumberformat{}{47}\delimN 
 \glsXpageXglsnumberformat{}{48}\delimN 
 \glsXpageXglsnumberformat{}{51}\delimR 
-\glsXpageXglsnumberformat{}{53}\delimN 
-\glsXpageXglsnumberformat{}{55}\delimR 
 \glsXpageXglsnumberformat{}{59}}}\glsgroupskip
 \glsgroupheading{N}\relax\glsresetentrylist
 \glossentry{nhs}{\glossaryentrynumbers{\relax 
@@ -153,9 +152,10 @@
 \glsXpageXglsnumberformat{}{10}\delimN 
 \glsXpageXglsnumberformat{}{27}\delimR 
 \glsXpageXglsnumberformat{}{29}\delimN 
-\glsXpageXglsnumberformat{}{50}\delimN 
-\glsXpageXglsnumberformat{}{53}\delimN 
-\glsXpageXglsnumberformat{}{55}\delimR 
+\glsXpageXglsnumberformat{}{51}\delimN 
+\glsXpageXglsnumberformat{}{54}\delimN 
+\glsXpageXglsnumberformat{}{55}\delimN 
+\glsXpageXglsnumberformat{}{57}\delimN 
 \glsXpageXglsnumberformat{}{59}}}\relax\glsresetentrylist
 \glossentry{scup}{\glossaryentrynumbers{\relax 
 \glsXpageXglsnumberformat{}{50}}}\relax\glsresetentrylist
